@@ -1,6 +1,6 @@
 import requests
 
-api_key = 'adaf972289e58e9f8a65cc9e8f4568d5'
+api_key = 'Your API Key'
 
 print("Welcome to Weather App")
 
